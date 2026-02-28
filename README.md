@@ -21,7 +21,7 @@ Abaixo, a lista de jogos que possuem modificações neste repositório:
 
 | Jogo | Mod Principal | Link |
 | :--- | :--- | :--- |
-| **Paper Lily - Chapter 1** | Quicksave System | [Ver Pasta](./Paper%20Lily%20-%20Chapter%201) |
+| **Paper Lily - Chapter 1** | Quick Save | [Ver Pasta](./Paper%20Lily%20-%20Chapter%201) |
 
 ---
 
