@@ -2,6 +2,7 @@
 
 ## Mod: Quicksave System (F5)
 Este mod permite salvar o jogo a qualquer momento durante a gameplay pressionando a tecla **F5**. O sistema busca automaticamente por um slot vazio e, caso todos estejam ocupados, sobrescreve o save mais antigo baseado na data de modificação do arquivo.
+Feito para a versão 1.1.6
 
 ---
 
@@ -84,3 +85,4 @@ if (@event is InputEventKey keyEvent && keyEvent.Pressed && !keyEvent.Echo && ke
     LacieEngine.Core.GameState.Save(slotDestino, false);
     return;
 }
+
