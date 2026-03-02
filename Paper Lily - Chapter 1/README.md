@@ -86,5 +86,3 @@ if (@event is InputEventKey keyEvent && keyEvent.Pressed && !keyEvent.Echo && ke
     LacieEngine.Core.GameState.Save(slotDestino, false);
     return;
 }
-
-
