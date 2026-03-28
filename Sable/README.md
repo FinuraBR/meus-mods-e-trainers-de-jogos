@@ -19,6 +19,12 @@ Feito para a versão **4.3** (Steam Build 10132013)
 
 ---
 
+## Arquivos nesta pasta
+*   `Sable.ct`: O arquivo da tabela do Cheat Engine contendo os scripts e ponteiros.
+*   `README.md`: Este guia de uso e documentação.
+
+---
+
 ## Como Usar (Instalação)
 
 **Pré-requisitos:** Você precisa ter o [Cheat Engine](https://cheatengine.org/) instalado no seu computador.
