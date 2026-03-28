@@ -25,11 +25,11 @@ Feito para a versão **4.3** (Steam Build 10132013)
 
 ---
 
-## Como Usar (Instalação)
+## Como Usar
 
 **Pré-requisitos:** Você precisa ter o [Cheat Engine](https://cheatengine.org/) instalado no seu computador.
 
-1. Baixe o arquivo `Sable.ct` diretamente na aba de [Releases](https://github.com/FinuraBR/meus-mods-e-trainers-de-jogos/releases).
+1. Baixe o arquivo `Sable.ct` diretamente na aba de [Releases](https://github.com/FinuraBR/meus-mods-e-trainers-de-jogos/releases/tag/Sable).
 2. Inicie o jogo **Sable**.
 3. Dê um duplo clique no arquivo `Sable.ct` que você baixou.
 4. No Cheat Engine, clique no ícone de um **computador com uma lupa** (no canto superior esquerdo, piscando).
