@@ -21,7 +21,7 @@ Abaixo, a lista de jogos que possuem projetos neste repositório:
 
 | Jogo | Link |
 | :--- | :--- |
-| **Sable** | [Ver Pasta]() |
+| **Sable** | [Ver Pasta](https://github.com/FinuraBR/meus-mods-e-trainers-de-jogos/tree/main/Sable) |
 | **Paper Lily - Chapter 1** | [Ver Pasta](./Paper%20Lily%20-%20Chapter%201) |
 
 ---
