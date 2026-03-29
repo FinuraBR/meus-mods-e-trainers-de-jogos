@@ -16,6 +16,8 @@ Feito para a versão **4.3** (Steam Build 10132013)
 *   **Estado Minigame Pesca**
 *   **Minigame Pesca Finalizado**
 *   **Posição Peixe Minigame Pesca**
+*   **Dinheiro**
+*   **Qt Custom Marcador Mapa**
 
 ---
 
