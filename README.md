@@ -36,7 +36,7 @@ Os arquivos finais (executáveis, instaladores ou binários) são hospedados na 
 
 *   **LinkedIn:** [Igor R. e Luna Fernandes](https://www.linkedin.com/in/igor-r-e-luna-fernandes-989ba638a)
 *   **Discord:** [FinuraBR](https://discordapp.com/users/843305075278348309)
-*   **Catálogo de Jogos:**[Zerodex](https://github.com/FinuraBR/Zerodex)
+*   **Catálogo de Jogos:** [Zerodex](https://github.com/FinuraBR/Zerodex)
 *   **Email:** [Aqui](mailto:igorrabenschlag@gmail.com)
 
 ---
