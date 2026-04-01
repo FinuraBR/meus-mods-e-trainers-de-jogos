@@ -3,7 +3,7 @@
 ## Trainer (Tabela Cheat Engine - .ct)
 Esta é uma tabela do Cheat Engine desenvolvida para atuar como um trainer no jogo Sable. Ela permite manipular valores da memória do jogo para ativar facilidades e cheats durante a gameplay, sem a necessidade de modificar os arquivos originais do jogo.
 
-Feito para a versão **4.3** (Steam Build 10132013)
+Feito para a versão **4.3** (Build 10132013)
 
 ---
 
