@@ -35,7 +35,7 @@ Atualmente estou trabalhando em uma reformulação de como o Cheat Engine pega o
 
 **Pré-requisitos:** Você precisa ter o [Cheat Engine](https://cheatengine.org/) instalado no seu computador.
 
-1. Baixe o arquivo `Sable.ct` diretamente na aba de [Releases](https://github.com/FinuraBR/meus-mods-e-trainers-de-jogos/releases/tag/Sable).
+1. Baixe o arquivo `Sable.ct` diretamente na aba de [Releases](https://github.com/FinuraBR/meus-mods-e-trainers-de-jogos/releases?q=Sable).
 2. Inicie o jogo **Sable**.
 3. Dê um duplo clique no arquivo `Sable.ct` que você baixou.
 4. No Cheat Engine, clique no ícone de um **computador com uma lupa** (no canto superior esquerdo, piscando).
