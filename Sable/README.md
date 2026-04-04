@@ -14,14 +14,23 @@ Atualmente estou trabalhando em uma reformulação de como o Cheat Engine pega o
 ## Funcionalidades Incluídas
 *(Marque as caixas no Cheat Engine para ativar ou altere os valores)*
 
-*   **Progesso Minigame Pesca**
-*   **Força do Lançamento da Isca**
-*   **Estado Pesca**
-*   **Estado Minigame Pesca**
-*   **Minigame Pesca Finalizado**
+*   **Inf Stamina**
+*   **Inf Compra ("Inf Dinheiro")**
+---
 *   **Posição Peixe Minigame Pesca**
 *   **Dinheiro**
 *   **Qt Custom Marcador Mapa**
+*   **Sprint Stamina Rate**
+*   **Minigame Pesca Finalizado**
+*   **Estado Minigame Pesca**
+*   **Estado Pesca**
+*   **Força do Lançamento da Isca**
+*   **Progesso Minigame Pesca**
+*   **FPS Counter**
+*   **Fmod Global Parameter Debug**
+*   **Stamina Recharge Rate**
+*   **Climbing Stamina**
+*   **Air Move Force**
 
 ---
 
