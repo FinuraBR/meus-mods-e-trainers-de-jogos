@@ -7,10 +7,6 @@ Feito para a versão **4.3** (Build 10132013)
 
 ---
 
-## Aviso
-
-Atualmente estou trabalhando em uma reformulação de como o Cheat Engine pega os endereços certos e possivelmente tbm farei a adição de mais opções
-
 ## Funcionalidades Incluídas
 *(Marque as caixas no Cheat Engine para ativar ou altere os valores)*
 
