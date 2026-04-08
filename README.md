@@ -1,6 +1,6 @@
 # My Game Mods and Trainers
 
-**[Versão em Português](./README.md)**
+**[Versão em Português](./LEIAME.md)**
 
 This repository centralizes the modifications and trainers I've developed for various games. The focus is on gathering enhancements, new functionalities, fixes, and utilities (such as cheats/trainers), regardless of the game engine or genre.
 
