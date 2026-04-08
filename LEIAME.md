@@ -1,6 +1,6 @@
 # Meus Mods e Trainers de Jogos
 
-**[English Version.](./README.md)**
+**[English Version](./README.md)**
 
 Este repositório centraliza as modificações e trainers que desenvolvi para diversos jogos. O foco é reunir melhorias, novas funcionalidades, correções e utilitários (como cheats/trainers), independente do motor ou gênero do jogo.
 
