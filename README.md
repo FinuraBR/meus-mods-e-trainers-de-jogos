@@ -38,5 +38,3 @@ Os arquivos finais (executáveis, instaladores ou binários) são hospedados na 
 *   **Discord:** [FinuraBR](https://discordapp.com/users/843305075278348309)
 *   **Catálogo de Jogos:** [Zerodex](https://github.com/FinuraBR/Zerodex)
 *   **Email:** [Aqui](mailto:igorrabenschlag@gmail.com)
-
----
