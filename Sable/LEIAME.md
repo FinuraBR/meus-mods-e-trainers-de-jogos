@@ -1,5 +1,7 @@
 # Sable Cheat Engine Trainer
 
+**[English Version](./README.md)**
+
 ## Visão Geral
 
 Este é um projeto de *reverse engineering* focado no desenvolvimento de um *trainer* para o jogo **Sable** utilizando o **Cheat Engine**. A ferramenta permite a manipulação de valores na memória do jogo em tempo real, concedendo ao jogador diversas facilidades e opções de depuração sem a necessidade de modificar os arquivos originais do jogo. O *trainer* foi projetado baseado na versão **4.3** do jogo.
