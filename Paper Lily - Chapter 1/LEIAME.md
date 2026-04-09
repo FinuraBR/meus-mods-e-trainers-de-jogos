@@ -1,5 +1,7 @@
 # Paper Lily - Chapter 1
 
+**[English Version](./README.md)**
+
 ## Mod: Quicksave System (F5)
 Este mod permite salvar o jogo a qualquer momento durante a gameplay pressionando a tecla **F5**. O sistema busca automaticamente por um slot vazio e, caso todos estejam ocupados, sobrescreve o save mais antigo baseado na data de modificação do arquivo.
 
